@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = uz.onlinejava.\
+    lessonjhipster.config.SqlTestContainersSpringContextCustomizerFactory

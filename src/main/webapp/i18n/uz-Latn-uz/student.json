@@ -1,0 +1,29 @@
+{
+  "lessonJhipsterApp": {
+    "student": {
+      "home": {
+        "title": "Students",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Student qo`shish",
+        "createOrEditLabel": "Studentni tahrirlash",
+        "notFound": "No Students found"
+      },
+      "created": "Student { param } bilan qo`shildi",
+      "updated": "{ param }- Student saqlandi",
+      "deleted": "{ param }- Student o`chirildi",
+      "delete": {
+        "question": "{ id }- Studentni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Student"
+      },
+      "id": "ID",
+      "name": "Name",
+      "lastName": "Last Name",
+      "age": "Age",
+      "birthOfDay": "Birth Of Day",
+      "phoneNumber": "Phone Number",
+      "address": "Address"
+    }
+  }
+}
